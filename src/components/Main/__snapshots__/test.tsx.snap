@@ -55,7 +55,13 @@ exports[`<Main /> should render the heading 1`] = `
   <h1
     class="c2"
   >
+<<<<<<< HEAD
     React Avançado
+=======
+     
+    React Avançado
+     
+>>>>>>> 8aea7cee29b9d90b6a5ac1c88c2758bc557c37d6
   </h1>
   <h2
     class="c3"
